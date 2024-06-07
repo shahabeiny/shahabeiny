@@ -1,7 +1,4 @@
 <h2>Hi There! I'm Shahab Einy from Iran a FrontEnd Lover a FrontEnd Developer 🖐</h2>
-<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
-
-  <br />
   
 <h3>👨‍💻 &nbsp; About Me</h3>
 
@@ -18,9 +15,9 @@
 
 <h2>⚡️ &nbsp; Github Stats</h2>
 
-<div href="https://github.com/sabzlearn-ir">
- <img src="https://github-readme-stats.vercel.app/api?username=shahabeiny&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahabeiny&hide_progress=true"/>
+<div >
+ <img src="https://github-readme-stats.vercel.app/api?username=shahabeiny&show_icons=true&theme=radical" width="45%" height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahabeiny&hide_progress=true" width="45%" height="200px"/>
 </div>
 
 <h2>📞 &nbsp; Connct Me </h2>
@@ -29,6 +26,7 @@
   <a href="https://instagram.com/m.shahabeiny/">
     <img src="https://img.shields.io/badge/Instagram-@m.shahabeiny-red?style=flat&logo=instagram" />
   </a>
+  
   <a href="https://t.me/shahabeiny/">
     <img src="https://img.shields.io/badge/Telegram-@shahabeiny-blue?style=flat&logo=telegram" />
   </a>
