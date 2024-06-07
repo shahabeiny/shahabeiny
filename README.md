@@ -1,15 +1,14 @@
 <h2>Hi There! I'm Shahab Einy from Iran a FrontEnd Lover a FrontEnd Developer 🖐</h2>
+<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
+  <br />
+  
 <h3>👨‍💻 &nbsp; About Me</h3>
 
 - 🎓 &nbsp; Student of IT Subject In University
 - 💼 &nbsp; Working as a Mern Stack Developer
 - 🌱 &nbsp; Learning Git & Github
 - ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))
-
-  <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
-
-  <br />
 
 <h2 align"right">The tools I use 💪</h2>
 
@@ -28,7 +27,7 @@
 
 <p align="center">
   <a href="https://instagram.com/m.shahabeiny/">
-    <img src="https://img.shields.io/badge/Instagram-@m.shahabeiny?style=flat&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@m.shahabeiny-red?style=flat&logo=instagram" />
   </a>
   <a href="https://t.me/shahabeiny/">
     <img src="https://img.shields.io/badge/Telegram-@shahabeiny-blue?style=flat&logo=telegram" />
