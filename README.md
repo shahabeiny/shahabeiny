@@ -1,4 +1,4 @@
-<h2>Hi There! I'm Shahab from Iran a FrontEnd Lover a FrontEnd Developer 🖐</h2>
+<h2>Hi There! I'm Shahab Einy from Iran a FrontEnd Lover a FrontEnd Developer 🖐</h2>
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 
@@ -27,14 +27,11 @@
 <h2>📞 &nbsp; Connct Me </h2>
 
 <p align="center">
-  <a href="https://sabzlearn.ir/">
-    <img src="https://img.shields.io/badge/Website-www.Sabzlearn.ir-blue?style=flat&logo=google-chrome" />
+  <a href="https://instagram.com/m.shahabeiny/">
+    <img src="https://img.shields.io/badge/Instagram-@m.shahabeiny?style=flat&logo=instagram" />
   </a>
-  <a href="https://instagram.com/rad_front/">
-    <img src="https://img.shields.io/badge/Instagram-@Rad_Front-red?style=flat&logo=instagram" />
-  </a>
-  <a href="https://t.me/aminkhoy78/">
-    <img src="https://img.shields.io/badge/Telegram-@AminKhoy78-blue?style=flat&logo=telegram" />
+  <a href="https://t.me/shahabeiny/">
+    <img src="https://img.shields.io/badge/Telegram-@shahabeiny-blue?style=flat&logo=telegram" />
   </a>
 </p>
 
