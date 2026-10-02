@@ -2,7 +2,6 @@
   
 <h3>👨‍💻 &nbsp; About Me</h3>
 
-- 🎓 &nbsp; Student of IT Subject In University
 - 💼 &nbsp; Working as a Mern Stack Developer
 - ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))
 
