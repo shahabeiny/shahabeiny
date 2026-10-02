@@ -4,7 +4,6 @@
 
 - 🎓 &nbsp; Student of IT Subject In University
 - 💼 &nbsp; Working as a Mern Stack Developer
-- 🌱 &nbsp; Learning Git & Github
 - ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))
 
 <h2 align"right">The tools I use 💪</h2>
