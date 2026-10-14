@@ -1,46 +1,84 @@
-<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shahab%20Einy&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Frontend%20Specialist&descAlignY=55&descSize=18" width="100%" />
-</div>
 
-<div align="center">
-  <p>
-    <i>Hi there! I'm Shahab from Iran 👋 — a <b>Frontend Lover</b> & <b>Full-Stack Engineer</b>.<br/>
-    I build accessible, secure, and type-safe web applications. Coding and coffee are my daily fuel ☕</i>
-  </p>
+<!-- Header Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shahab%20Einy&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%E2%80%A2%20Frontend%20Specialist&descAlignY=55&descSize=18" width="100%" />
 
-  <a href="https://t.me/shahabeiny" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@shahabeiny-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+<br />
+
+<h3>Hi there! I'm Shahab from Iran 👋</h3>
+<p>
+  A <b>Front-End Lover</b> & <b>Full-Stack Software Engineer</b> obsessed with clean UI/UX,<br/>
+  end-to-end type safety, and scalable backend architectures.<br/>
+  <i>Coding and drinking coffee are my daily rituals ☕ :))</i>
+</p>
+
+<br />
+
+<!-- Core Focus Pills -->
+<img src="https://img.shields.io/badge/Focus-Frontend_Architecture-38BDF8?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Standard-Web_Accessibility_(a11y)-818CF8?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Security-OWASP_Practices-F43F5E?style=flat-square&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/System-Linux_(LPIC--1)-FACC15?style=flat-square&labelColor=0F172A" />
+
 </div>
 
 <br />
 
-### ⚡ About & Philosophy
+---
 
-- **Frontend Craftsmanship** — Obsessed with clean **UI/UX**, component architecture (**React, Next.js, shadcn/ui**), and strict **Web Accessibility (a11y)** standards.
-- **Modern Backend & Real-Time** — Building end-to-end type-safe APIs (**tRPC, Hono.js, Node.js**), event-driven WebSockets (**Socket.io**), and background job queues (**BullMQ, Redis**).
-- **Security & Operations** — Applying **OWASP** security practices and managing **Linux (LPIC-1)** environments with **Prisma & SQL** databases.
+<div align="center">
 
-<br />
+### ⚡ Tech Stack & Ecosystem
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,nodejs,prisma,postgres,redis,linux,figma&theme=dark" alt="Tech Stack Icons" />
+**Frontend & UI Engineering**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-0F172A?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/shadcn%2Fui-09090B?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-  <img src="https://img.shields.io/badge/TanStack_Query-09090B?style=flat-square&logo=reactquery&logoColor=FF4154" alt="React Query" />
-  <img src="https://img.shields.io/badge/tRPC-09090B?style=flat-square&logo=trpc&logoColor=2596BE" alt="tRPC" />
-  <img src="https://img.shields.io/badge/Hono.js-09090B?style=flat-square&logo=hono&logoColor=E36002" alt="Hono.js" />
-  <img src="https://img.shields.io/badge/BullMQ-09090B?style=flat-square&logo=redis&logoColor=DC382D" alt="BullMQ" />
-  <img src="https://img.shields.io/badge/Socket.io-09090B?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/Accessibility_(a11y)-09090B?style=flat-square&logo=w3c&logoColor=38BDF8" alt="a11y" />
-  <img src="https://img.shields.io/badge/OWASP_Security-09090B?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/LPIC--1-09090B?style=flat-square&logo=linux&logoColor=FCC624" alt="LPIC-1" />
+**State Management, APIs & Real-Time**
+<p>
+  <img src="https://img.shields.io/badge/tRPC-0F172A?style=for-the-badge&logo=trpc&logoColor=398CCB" />
+  <img src="https://img.shields.io/badge/TanStack_Query-0F172A?style=for-the-badge&logo=reactquery&logoColor=FF4154" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-0F172A?style=for-the-badge&logo=redux&logoColor=764ABC" />
+  <img src="https://img.shields.io/badge/Socket.io-0F172A?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
-<!-- Footer Banner -->
+**Backend, Database & Queues**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Hono.js-0F172A?style=for-the-badge&logo=hono&logoColor=E36002" />
+  <img src="https://img.shields.io/badge/Prisma-0F172A?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_/_PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Redis-0F172A?style=for-the-badge&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/BullMQ-0F172A?style=for-the-badge&logo=redis&logoColor=FF4438" />
+</p>
+
+**Design, Security & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Accessibility_(a11y)-0F172A?style=for-the-badge&logo=w3c&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/OWASP_Security-0F172A?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_(LPIC--1)-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+<a href="https://t.me/shahabeiny" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-@shahabeiny-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+<!-- Footer Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" width="100%" />
+
+</div>
